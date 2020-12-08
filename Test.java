@@ -54,7 +54,7 @@ public class Test{
 		fut4 = new Futbolcu("Kaka","Milan",80,95,90);
 		fut5 = new Futbolcu("Inzaghi","Milan",65,65,100);
 		fut6 = new Futbolcu("Seedorf","Milan",80,70,80);
-		fut7 = new Futbolcu("Cafu","Milan",70,75,70);
+		fut7 = new Futbolcu("Cafu","Milan",70,75,75);
 		fut8 = new Futbolcu("Gattuso","Milan",70,65,70);
 		futbolcuListe.add(fut1);
 		futbolcuListe.add(fut2);
